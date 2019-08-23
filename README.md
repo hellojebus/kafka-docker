@@ -1,5 +1,5 @@
 Start up Docker Images
-
+## Getting Started
 `docker-compose up`
 
 1. Connect to Kafka Container via Bash
