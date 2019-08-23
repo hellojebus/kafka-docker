@@ -14,7 +14,7 @@ Start up Docker Images
 
 `kafka-console-producer.sh --broker-list localhost:9092 --topic test`
 
-4. Create Consumer (One second terminal)
+4. Create Consumer (On second terminal)
 
 `kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic test`
 
